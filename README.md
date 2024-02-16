@@ -1,6 +1,7 @@
-# POKE : Performance Oriented Keyword Extractor ⚙️
+# POKE : Pankti Oriented Keyword Extractor ⚙️
 
 ---
+
 ## Contents
 
 - [What is POKE?](#what-is-poke)
