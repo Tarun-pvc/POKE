@@ -1,8 +1,6 @@
 # POKE : Performance Oriented Keyword Extractor ⚙️
 
 ---
-This is part of our *Natural Language Processing* coursework at **IIIT Sri City**, Monsoon 2023.
-
 ## Contents
 
 - [What is POKE?](#what-is-poke)
